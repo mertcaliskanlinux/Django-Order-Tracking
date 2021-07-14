@@ -1,0 +1,4 @@
+# Django-Order-Tracking
+DJANGO 3.2.4
+PYTHON 3.9
+DJANGI CRİSPY-FORM
